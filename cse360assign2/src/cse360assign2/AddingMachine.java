@@ -1,4 +1,11 @@
-//repository URL: 
+
+
+
+//repository URL:
+//https://github.com/hongxusu/cse360assign2/blob/master/cse360assign2/src/cse360assign2/AddingMachine.java
+
+
+
 package cse360assign2; 
 
 public class AddingMachine {
